@@ -47,9 +47,6 @@ python -m tavily_demo.main search-products --query "best smartphones under 20000
 - Ratings
 - Retailer (auto-detected)
 - Description
-- Product Highlights/Bullets
-- Technical Specifications
-- Ports & Features
 
 **Supported retailers:**
 - Flipkart (`--site flipkart`)
